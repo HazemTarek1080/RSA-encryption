@@ -1,0 +1,11 @@
+﻿  RSA.cpp
+c:\users\ahmed\source\repos\rsa\rsa\rsa.cpp(17): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\ahmed\source\repos\rsa\rsa\rsa.cpp(21): warning C4244: 'return': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\ahmed\source\repos\rsa\rsa\rsa.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ahmed\source\repos\rsa\rsa\rsa.cpp(68): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+c:\users\ahmed\source\repos\rsa\rsa\rsa.cpp(73): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ahmed\source\repos\rsa\rsa\rsa.cpp(75): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+c:\users\ahmed\source\repos\rsa\rsa\rsa.cpp(90): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ahmed\source\repos\rsa\rsa\rsa.cpp(147): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+  RSA.vcxproj -> C:\Users\ahmed\source\repos\RSA\Debug\RSA.exe
+  RSA.vcxproj -> C:\Users\ahmed\source\repos\RSA\Debug\RSA.pdb (Partial PDB)
